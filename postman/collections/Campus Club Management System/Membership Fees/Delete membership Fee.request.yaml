@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:8080/api/membership-fees/delete/a7237869-2a53-4fd7-a223-483ed523e286
+method: DELETE
+order: 3000

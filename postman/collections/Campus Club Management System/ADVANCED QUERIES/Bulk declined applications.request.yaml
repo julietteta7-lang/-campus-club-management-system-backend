@@ -1,0 +1,7 @@
+$kind: http-request
+url: http://localhost:8080/api/membership-applications/cancel-day?clubId=a157d3c9-6c9c-4d3b-9882-887fb6d0d25e&date=2026-11-04
+method: PATCH
+queryParams:
+  clubId: a157d3c9-6c9c-4d3b-9882-887fb6d0d25e
+  date: 2026-11-04
+order: 2000

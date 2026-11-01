@@ -1,0 +1,6 @@
+$kind: http-request
+url: http://localhost:8080/api/membership-applications/be5148d9-3841-4d4f-95ea-bbe7bdc90870/status?status=ADMITTED
+method: PATCH
+queryParams:
+  status: ADMITTED
+order: 4000

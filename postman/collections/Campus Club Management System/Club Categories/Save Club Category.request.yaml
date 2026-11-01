@@ -1,0 +1,7 @@
+$kind: http-request
+url: http://localhost:8080/api/club-categories/save
+method: POST
+body:
+  type: json
+  content: "{\r\n    \"name\": \"Arts\"\r\n}"
+order: 2000

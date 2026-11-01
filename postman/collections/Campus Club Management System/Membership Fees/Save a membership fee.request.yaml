@@ -1,0 +1,19 @@
+$kind: http-request
+url: http://localhost:8080/api/membership-fees/save?membershipApplicationId=421eaa9a-d711-4ef0-b03a-9b0b10c388a6
+method: POST
+queryParams:
+  membershipApplicationId: 421eaa9a-d711-4ef0-b03a-9b0b10c388a6
+body:
+  type: json
+  content: "{\r
+
+    \  \"feeType\": \"Annual Membership\",\r
+
+    \  \"note\": \"Annual club membership payment\",\r
+
+    \  \"amount\": 5000,\r
+
+    \  \"paidDate\": \"2026-11-01\"\r
+
+    }"
+order: 1000

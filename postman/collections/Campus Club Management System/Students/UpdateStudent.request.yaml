@@ -1,0 +1,21 @@
+$kind: http-request
+url: http://localhost:8080/api/students/update/34e512ad-6043-45b8-bb16-cd9453366d21
+method: PUT
+body:
+  type: json
+  content: "{\r
+
+    \    \"email\": \"milliebobby51@gmail.com\",\r
+
+    \    \"faculty\": \"Business Administration\",\r
+
+    \    \"firstName\": \"Millie\",\r
+
+    \    \"id\": \"34e512ad-6043-45b8-bb16-cd9453366d21\",\r
+
+    \    \"lastName\": \"Bobby-Brown\",\r
+
+    \    \"regNumber\": \"AUCA2026002\"\r
+
+    }"
+order: 4000

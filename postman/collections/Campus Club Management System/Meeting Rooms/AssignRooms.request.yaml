@@ -1,0 +1,6 @@
+$kind: http-request
+url: http://localhost:8080/api/clubs/21b0fb32-88cf-43f5-a81c-2038cf0d782e/meeting-room?roomNumber=105
+method: PATCH
+queryParams:
+  roomNumber: "105"
+order: 1000

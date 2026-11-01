@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:8080/api/club-categories/unused
+method: GET
+order: 8000

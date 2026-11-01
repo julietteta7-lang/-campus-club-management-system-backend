@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:8080/api/clubs/delete/529a160b-a666-4703-92c0-0172b17fa48b
+method: DELETE
+order: 5000

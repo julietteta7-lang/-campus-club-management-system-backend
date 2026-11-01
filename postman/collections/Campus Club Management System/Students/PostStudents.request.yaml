@@ -1,0 +1,19 @@
+$kind: http-request
+url: http://localhost:8080/api/students/save
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"firstName\": \"Lara\",\r
+
+    \    \"lastName\": \"Raj\",\r
+
+    \    \"regNumber\": \"AUCA2026006\",\r
+
+    \    \"email\": \"lararaj22@gmail.com\",\r
+
+    \    \"faculty\": \"Information Technology\"\r
+
+    }"
+order: 1000

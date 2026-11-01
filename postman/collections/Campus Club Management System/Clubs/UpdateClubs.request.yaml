@@ -1,0 +1,15 @@
+$kind: http-request
+url: http://localhost:8080/api/clubs/update/529a160b-a666-4703-92c0-0172b17fa48b
+method: PUT
+body:
+  type: json
+  content: "{\r
+
+    \    \"clubName\": \"IT Club\",\r
+
+    \    \"patronName\": \"Mr. James & Ms Colline \",\r
+
+    \    \"email\": \"technology76@gmail.com\"\r
+
+    }"
+order: 4000

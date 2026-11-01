@@ -1,0 +1,7 @@
+$kind: http-request
+url: http://localhost:8080/api/membership-applications/between?start=2026-11-02&end=2026-11-05
+method: GET
+queryParams:
+  start: 2026-11-02
+  end: 2026-11-05
+order: 5000

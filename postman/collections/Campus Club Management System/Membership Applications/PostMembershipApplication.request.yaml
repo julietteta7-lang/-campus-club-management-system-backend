@@ -1,0 +1,25 @@
+$kind: http-request
+url: http://localhost:8080/api/membership-applications/save
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"applicationDate\": \"2026-11-11\",\r
+
+    \  \"motivation\": \"I want to contribute to community service activities.\",\r
+
+    \  \"student\": {\r
+
+    \    \"id\": \"5bd96509-14c7-4020-99ba-3d51a5248e99\"\r
+
+    \  },\r
+
+    \  \"club\": {\r
+
+    \    \"id\": \"7c0ad481-fed5-4971-979d-9c934396c74e\"\r
+
+    \  }\r
+
+    }"
+order: 1000

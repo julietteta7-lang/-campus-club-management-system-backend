@@ -1,0 +1,6 @@
+$kind: http-request
+url: http://localhost:8080/api/membership-applications/by-status?status=SHORTLISTED
+method: GET
+queryParams:
+  status: SHORTLISTED
+order: 6000

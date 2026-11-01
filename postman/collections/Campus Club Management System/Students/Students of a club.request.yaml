@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:8080/api/students/of-club/a157d3c9-6c9c-4d3b-9882-887fb6d0d25e
+method: GET
+order: 7000

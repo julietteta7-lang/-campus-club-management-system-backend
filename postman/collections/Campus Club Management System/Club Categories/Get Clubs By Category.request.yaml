@@ -1,0 +1,6 @@
+$kind: http-request
+url: http://localhost:8080/api/clubs/by-club-category?name=Technology
+method: GET
+queryParams:
+  name: Technology
+order: 3000

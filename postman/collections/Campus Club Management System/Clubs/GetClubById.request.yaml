@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:8080/api/meeting-rooms/43a83ee3-9e1f-4adf-aac6-75c514d97fa7
+method: GET
+order: 3000

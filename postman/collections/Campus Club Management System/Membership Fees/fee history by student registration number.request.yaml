@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:8080/api/membership-fees/student/AUCA2026006
+method: GET
+order: 2000

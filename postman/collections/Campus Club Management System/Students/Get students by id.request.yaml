@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:8080/api/students/34e512ad-6043-45b8-bb16-cd9453366d21
+method: GET
+order: 3000

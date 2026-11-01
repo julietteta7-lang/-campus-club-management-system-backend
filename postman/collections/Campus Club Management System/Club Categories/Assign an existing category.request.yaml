@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:8080/api/clubs/a157d3c9-6c9c-4d3b-9882-887fb6d0d25e/club-categories/4e2cd389-83ab-449f-8a30-9a394c336eae
+method: PUT
+order: 5000

@@ -1,0 +1,15 @@
+$kind: http-request
+url: http://localhost:8080/api/clubs/save
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"clubName\": \"Technology Club\",\r
+
+    \    \"patronName\": \"Mr. James\",\r
+
+    \    \"email\": \"technology7@gmail.com\"\r
+
+    }"
+order: 1000
